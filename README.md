@@ -1,1 +1,1 @@
-It was my first application built using front-end development tools.
+It was my first image searching application built using front-end development tools.
